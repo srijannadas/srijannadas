@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **srijanna.2002@gmail.com**
 
+- pronouns: **she/her**
+
 - ⚡ fact about me **i love meet new people and sit in my laptop**
 
 <h3 align="left">Connect with me:</h3>
