@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijannadas&label=Profile%20views&color=0e75b6&style=flat" alt="srijannadas" /> </p>
 
-- 🔭 I’m currently volunteering **Hack4bengal , an upcoming Hackathon hackathon**
+- 🔭 I’m currently volunteering **Hack4bengal , an upcoming Hackathon**
 
 - 🌱 I’m currently learning **backend development , Data Structure and algorithm**
 
