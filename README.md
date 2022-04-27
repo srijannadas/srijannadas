@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srijann Das</h1>
+<h1 align="center">Hi 👋, I'm Srijanna Das</h1>
 <h3 align="center">A passionate developer from kolkata , trying to figure out stuffs .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijannadas&label=Profile%20views&color=0e75b6&style=flat" alt="srijannadas" /> </p>
