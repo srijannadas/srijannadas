@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijannadas&label=Profile%20views&color=0e75b6&style=flat" alt="srijannadas" /> </p>
 
-- 🔭 I’m currently working at **Nincompoop**
+- 🔭 I’m currently working at **Skill Academia**
 
 - 🌱 I’m currently learning **backend development , Data Structure and algorithm**
 
